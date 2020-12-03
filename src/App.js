@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Axios from "axios";
 
-const APIKEY = "62316cb7";
+const APIKEY = "your api key";
 export default function App() {
   const [searchText, setSearchText] = useState("");
   const [films, setFilms] = useState([]);
