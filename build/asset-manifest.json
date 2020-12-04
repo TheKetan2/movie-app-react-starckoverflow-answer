@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/movie-app-react-starckoverflow-answer/static/css/main.9a10ebd4.chunk.css",
+    "main.css": "/movie-app-react-starckoverflow-answer/static/css/main.75c46d30.chunk.css",
     "main.js": "/movie-app-react-starckoverflow-answer/static/js/main.91f23337.chunk.js",
     "main.js.map": "/movie-app-react-starckoverflow-answer/static/js/main.91f23337.chunk.js.map",
     "runtime-main.js": "/movie-app-react-starckoverflow-answer/static/js/runtime-main.85426350.js",
@@ -10,13 +10,13 @@
     "static/js/3.45c653ec.chunk.js": "/movie-app-react-starckoverflow-answer/static/js/3.45c653ec.chunk.js",
     "static/js/3.45c653ec.chunk.js.map": "/movie-app-react-starckoverflow-answer/static/js/3.45c653ec.chunk.js.map",
     "index.html": "/movie-app-react-starckoverflow-answer/index.html",
-    "static/css/main.9a10ebd4.chunk.css.map": "/movie-app-react-starckoverflow-answer/static/css/main.9a10ebd4.chunk.css.map",
+    "static/css/main.75c46d30.chunk.css.map": "/movie-app-react-starckoverflow-answer/static/css/main.75c46d30.chunk.css.map",
     "static/js/2.c474346e.chunk.js.LICENSE.txt": "/movie-app-react-starckoverflow-answer/static/js/2.c474346e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.85426350.js",
     "static/js/2.c474346e.chunk.js",
-    "static/css/main.9a10ebd4.chunk.css",
+    "static/css/main.75c46d30.chunk.css",
     "static/js/main.91f23337.chunk.js"
   ]
 }

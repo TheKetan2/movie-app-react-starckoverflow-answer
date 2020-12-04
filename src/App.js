@@ -17,7 +17,7 @@ export default function App() {
       return;
     }
     Axios.get(
-      `https://www.omdbapi.com/?i=tt3896198&apikey=62316cb7&s=${searchText}`
+      `https://www.omdbapi.com/?i=tt3896198&apikey=${APIKEY}&s=${searchText}`
     )
       .then((response) => {
         console.log(response.data);
